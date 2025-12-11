@@ -8,57 +8,57 @@ Hi, I’m FoxHui. I’ve been looking forward to meeting you.
 \/   \___/_/\_\/ /_/  \__,_|_|
                                                                    
 ```
-<h2 align="left"" id="foxhui">Favorite Tech</h2>
+<h2 align="left"" id="foxhui">技术栈</h2>
 
-> Languages, Tools...
+> 常用的语言和工具...
 
 <table>
   <tr>
      <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" />
       </a>
       <br>JavaScript
     </td>
      <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" height="48" />
       </a>
       <br>VSCode
     </td>
     <td align="center" width="96">
       <a href="#foxhuih">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" height="48"/>
       </a>
       <br>Photoshop
     </td>
     <td align="center" width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="48" height="48"/>
       </a>
       <br>Premiere
     </td>
     <td align="center"  width="96">
       <a href="#foxhui">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="48" height="48"/>
       </a>
       <br>Linux
     </td>
