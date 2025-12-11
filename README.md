@@ -1,5 +1,5 @@
-## Hi👋，I’m FoxHui.
-你好👋，这里是辉辉狐，你可以叫我辉辉，很高兴遇见你！
+## 你好👋，这里是辉辉狐，你可以叫我辉辉，很高兴遇见你！
+Hi, I’m FoxHui. I’ve been looking forward to meeting you.
 ```                                                   
    ___                      _ 
   / __\____  __ /\  /\_   _(_)
