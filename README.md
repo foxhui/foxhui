@@ -1,4 +1,5 @@
-## Hi👋，这里是辉辉狐 I’m FoxHui.
+## Hi👋，I’m FoxHui.
+你好👋，这里是辉辉狐，你可以叫我辉辉，很高兴遇见你！
 ```                                                   
    ___                      _ 
   / __\____  __ /\  /\_   _(_)
@@ -7,18 +8,29 @@
 \/   \___/_/\_\/ /_/  \__,_|_|
                                                                    
 ```
-<h2 align="left"" id="foxhui">技术栈 Favorite Tech</h2>
+<h2 align="left"" id="foxhui">Favorite Tech</h2>
 
-> 语言、工具等...
 > Languages, Tools...
 
 <table>
   <tr>
+     <td align="center" width="96">
+      <a href="#foxhui">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>HTML5
+    </td>
     <td align="center" width="96">
       <a href="#foxhui">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>JavaScript
+    </td>
+     <td align="center" width="96">
+      <a href="#foxhui">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#foxhui">
