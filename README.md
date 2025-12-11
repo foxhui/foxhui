@@ -8,10 +8,6 @@ Hi, I’m FoxHui. I’ve been looking forward to meeting you.
 \/   \___/_/\_\/ /_/  \__,_|_|
                                                                    
 ```
-<h2 align="left"" id="foxhui">技术栈</h2>
-
-> 常用的语言和工具...
-
 <table>
   <tr>
      <td align="center" width="96">
